@@ -13,3 +13,6 @@
 [submodule "project/stm32/stm32f4_driver"]
 	path = project/stm32/stm32f4_driver
 	url = https://github.com/zjl-git/stm32f4_driver.git
+[submodule "project/nrf52/nrf52_driver"]
+	path = project/nrf52/nrf52_driver
+	url = https://github.com/zjl-git/nrf52_driver.git
