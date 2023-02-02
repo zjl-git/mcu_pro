@@ -22,3 +22,6 @@
 [submodule "src/periperals"]
 	path = src/periperals
 	url = https://github.com/zjl-git/peripherals.git
+[submodule "src/components"]
+	path = src/components
+	url = https://github.com/zjl-git/components.git
