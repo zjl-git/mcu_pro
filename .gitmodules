@@ -16,3 +16,6 @@
 [submodule "project/nrf52/nrf52_driver"]
 	path = project/nrf52/nrf52_driver
 	url = https://github.com/zjl-git/nrf52_driver.git
+[submodule "kernel/hal/esp-idf"]
+	path = kernel/hal/esp-idf
+	url = https://github.com/espressif/esp-idf.git
