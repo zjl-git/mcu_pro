@@ -7,3 +7,9 @@
 [submodule "project/esp32/esp32_driver"]
 	path = project/esp32/esp32_driver
 	url = https://github.com/zjl-git/esp32_driver.git
+[submodule "project/stm32/stm32f1_driver"]
+	path = project/stm32/stm32f1_driver
+	url = https://github.com/zjl-git/stm32f1_driver.git
+[submodule "project/stm32/stm32f4_driver"]
+	path = project/stm32/stm32f4_driver
+	url = https://github.com/zjl-git/stm32f4_driver.git
