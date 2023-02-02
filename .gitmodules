@@ -19,3 +19,6 @@
 [submodule "sdk/system/rt-thread"]
 	path = sdk/system/rt-thread
 	url = https://github.com/RT-Thread/rt-thread.git
+[submodule "src/periperals"]
+	path = src/periperals
+	url = https://github.com/zjl-git/peripherals.git
