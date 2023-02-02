@@ -19,3 +19,6 @@
 [submodule "kernel/hal/esp-idf"]
 	path = kernel/hal/esp-idf
 	url = https://github.com/espressif/esp-idf.git
+[submodule "kernel/rtos/freertos"]
+	path = kernel/rtos/freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
