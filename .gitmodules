@@ -22,3 +22,6 @@
 [submodule "kernel/rtos/freertos"]
 	path = kernel/rtos/freertos
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "kernel/rtos/rt-thread"]
+	path = kernel/rtos/rt-thread
+	url = https://github.com/RT-Thread/rt-thread.git
