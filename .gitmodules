@@ -13,3 +13,9 @@
 [submodule "project/nrf52/nrf52_driver"]
 	path = project/nrf52/nrf52_driver
 	url = https://github.com/zjl-git/nrf52_driver.git
+[submodule "sdk/system/freertos"]
+	path = sdk/system/freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "sdk/system/rt-thread"]
+	path = sdk/system/rt-thread
+	url = https://github.com/RT-Thread/rt-thread.git
