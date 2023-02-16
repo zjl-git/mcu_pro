@@ -1,3 +1,4 @@
 /project/esp32/esp32s3/build/
 /tools/esp_env/
+/.vscode
 !/tools/esp_env/esp_env_esp32s3
