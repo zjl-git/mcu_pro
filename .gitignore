@@ -1,4 +1,5 @@
 /project/esp32/esp32s3/build/
+/kernel/hal/esp-idf/
 /tools/esp_env/
 /.vscode
 !/tools/esp_env/esp_env_esp32s3
