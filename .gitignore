@@ -1,5 +1,7 @@
 /project/esp32/esp32s3/build/
+/project/nrf52/nrf52840/_build/
 /kernel/hal/esp-idf/
+/kernel/hal/nrf52-sdk/
 /tools/esp_env/
 /.vscode
 !/tools/esp_env/esp_env_esp32s3
